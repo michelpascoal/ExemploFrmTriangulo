@@ -1,0 +1,14 @@
+# Ignora arquivos e pastas de build
+/target/
+/build/
+
+# Ignora arquivos do NetBeans
+nbproject/private/
+/nbbuild/
+/dist/
+/.nb-gradle/
+
+# Ignora arquivos temporários
+*.class
+*.log
+*.tmp
